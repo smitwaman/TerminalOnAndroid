@@ -25,7 +25,7 @@ Running Linux terminal on Android using Termux.
    ```sh
    pkg update -y
    ```
-
+When asked to install new packages, type Y and enter.
 ### Step 3: Setup Storage Permissions
 1. Give storage permission to read and write on Android storage by entering the following command:
    ```sh
@@ -54,6 +54,7 @@ Running Linux terminal on Android using Termux.
    ```sh
    ./install-nethunter-termux
    ```
+ When asked to install new packages, type `Y` and enter.
 2. Enter the image that you want to install. We are going to install 2.
 3. The installation will take a while. When asked to delete `rootfs`, enter `N`.
 
